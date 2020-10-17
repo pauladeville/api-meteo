@@ -1,0 +1,26 @@
+#tabVille {
+    background: rgba(95, 138, 191, 0.8);
+}
+#tabTemp {
+    background: rgba(70, 117, 175, 0.8);
+}
+#tabVent {
+    background: rgba(124, 159, 203, 0.8);
+}
+#tabHum {
+    background: rgba(153, 181, 214, 0.8);
+}
+#meteo > div {
+    height: 200px;
+    margin: 0;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 4em;
+    /* box-shadow: -6px 0 transparent, 6px 0 transparent, 0 30px 20px -10px white; */
+
+}
+body {
+    background-image: url("cloud.jpeg");
+    background-size: cover;
+}
